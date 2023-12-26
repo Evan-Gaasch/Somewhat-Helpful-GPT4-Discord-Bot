@@ -12,12 +12,12 @@ import matplotlib.pyplot as plt
 
 
 #security token
-Token = 'MTE0OTE0NDU4NzQ3MDkwOTQ5MQ.Gwg5Zj.S9eP_42XeWUq9zQXvBxN-ggUh5YnU8mp5JsVV4'
+Token = 'put your token here'
 
 #openai setup
-#openai.api_key = "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"
+
 client = OpenAI(
-    api_key = "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"
+    api_key = "put your key here"
 )
 
 
