@@ -61,7 +61,7 @@ FileNames = ["\goose.jpg","\goose2.jpg","\evil.jpg","\scary.jpg","\scary2.jpg","
 FileNamesA = ["\boo.wav","\kaboo.wav","\evil1.wav","\fur.wav","\ham.wav","\coming.wav","\doh.wav","\evil2.wav","\love.wav"]
 
 #file path for images
-FilePath = "E:\Evan\Coding\code\Memes"
+FilePath = "put your file path here"
 
 #init finished
 
